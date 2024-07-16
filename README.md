@@ -1,1 +1,1 @@
-# odin-recipes
+# This project will showcase my current skillset.
